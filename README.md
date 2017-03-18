@@ -91,4 +91,4 @@ Small note: If editing the README, please conform to the [standard-readme](https
 
 ## License
 
-MIT © Eric Harris-Braun
+[MIT](LICENSE) © 2017 Eric Harris-Braun
